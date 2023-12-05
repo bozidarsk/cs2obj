@@ -1,0 +1,23 @@
+﻿
+namespace System {
+	public enum ConsoleColor {
+		Black,
+		DarkBlue,
+		DarkGreen,
+		DarkCyan,
+		DarkRed,
+		DarkMagenta,
+		DarkYellow,
+		Gray,
+		DarkGray,
+		Blue,
+		Green,
+		Cyan,
+		Red,
+		Magenta,
+		Yellow,
+		White,
+
+		Custom = 0x01000000
+	}
+}

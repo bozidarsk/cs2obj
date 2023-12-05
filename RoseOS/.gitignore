@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.vscode/
+build/
+lib/see_sharp_native.lib
+tmp/
+Debug/
+*.pdb
+serial.log
